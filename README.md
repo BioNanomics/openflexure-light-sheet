@@ -1,5 +1,8 @@
 # OpenFlexure Light-Sheet Microscopy
 
+
+https://www.instagram.com/reel/De3u7EsTxHB/?cplk=MWRjd24wM3E4OHQ4MA==
+
 **BioNanomics · Student project · Planning and recruitment**
 
 Build a student team to reproduce, document, and evaluate an affordable light-sheet microscope based on [SPIM-DoMB](https://github.com/fluoimlab/SPIM-DoMB) and its modified [OpenFlexure Block Stage](https://github.com/fluoimlab/OpenFlexure-XYZR).
