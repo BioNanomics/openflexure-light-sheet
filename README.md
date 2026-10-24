@@ -6,7 +6,8 @@ Build a student team to reproduce, document, and evaluate an affordable light-sh
 
 The goal is a reproducible instrument and an approachable learning project spanning 3D printing, optics, electronics, microscopy software, and quantitative imaging. This repository currently contains the project README; construction, software development, and experiments are future work.
 
-**Related project:** [C. elegans NSPARC–diSPIM Benchmark](https://github.com/BioNanomics/celegans-nsparc-dispim-benchmark)  
+**Related project:** [C. elegans NSPARC–diSPIM Benchmark](https://github.com/BioNanomics/celegans-nsparc-dispim-benchmark)
+
 **Relationship ticket:** [Companion build: OpenFlexure-based student light-sheet microscope — benchmark #2](https://github.com/BioNanomics/celegans-nsparc-dispim-benchmark/issues/2)
 
 ## The idea in pictures
